@@ -1,8 +1,14 @@
 January observational log.
 
-Initial recordings were conducted during early transit windows.
-Ambient light levels remained within stable thresholds for most sessions.
-Minor frame noise observed during low-exposure captures.
+Initial recordings were carried out during the early transit windows, when movement within the monitored zone was minimal and environmental interference remained relatively low. 
+These first sessions provided a clean baseline for the month, with most captures occurring under predictable conditions. 
+Ambient light levels stayed within stable thresholds throughout the majority of the observation period, allowing for consistent exposure settings and reducing the need for mid‑session recalibration.
 
-No persistent anomalies detected during this phase.
-Data stored for baseline comparison with future logs.
+A small amount of frame noise was detected during low‑exposure captures, particularly in the pre‑dawn intervals where natural illumination dropped below optimal levels. 
+The noise did not significantly impact subject visibility but was noted for future correction. Equipment diagnostics indicated no hardware faults; the distortion appears to be a natural consequence of the lighting environment rather than a mechanical issue.
+
+Across all January sessions, no persistent anomalies were detected. 
+Minor fluctuations in movement and lighting were observed, but none displayed the repetition or structure required to classify them as meaningful patterns. 
+All collected data has been archived and catalogued for long‑term reference, forming the baseline against which subsequent months will be compared.
+
+Further monitoring will continue as scheduled. No immediate follow‑up actions required at this stage.
