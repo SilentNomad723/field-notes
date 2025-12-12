@@ -1,0 +1,8 @@
+January observational log.
+
+Initial recordings were conducted during early transit windows.
+Ambient light levels remained within stable thresholds for most sessions.
+Minor frame noise observed during low-exposure captures.
+
+No persistent anomalies detected during this phase.
+Data stored for baseline comparison with future logs.
