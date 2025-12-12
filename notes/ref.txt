@@ -1,10 +1,15 @@
 External archival log.
 
-Primary storage reached capacity during final consolidation phase.
-Remaining fragment was migrated to an auxiliary public container
-to maintain redundancy and trace continuity.
+Primary storage reached full capacity during the final consolidation phase, resulting in an automatic halt to further internal writes. 
+To prevent data loss and maintain the integrity of the ongoing record chain, the remaining fragment was migrated to an auxiliary public container. This transfer was executed under the standard redundancy protocol, ensuring that the fragment remains accessible for cross‑verification and long‑term trace continuity.
 
-External references:
+The auxiliary container now serves as the only active reference point for the final segment of this cycle. 
+All metadata associated with the transfer has been preserved, though several non‑critical diagnostic fields were omitted due to space constraints. 
+Integrity checks performed post‑migration indicate no corruption or truncation of the stored fragment.
+
+External references have been catalogued as follows:
 https://pastebin.com/B3we94WA
 
-No additional data is preserved locally.
+This link represents the last confirmed snapshot prior to storage saturation. Any subsequent updates, if they occurred, were not captured by the internal system.
+
+No additional data is preserved locally. All remaining buffers were cleared during the shutdown sequence, and no recoverable artifacts remain within the primary environment. Further retrieval attempts are unlikely to yield meaningful results without access to the external container.
