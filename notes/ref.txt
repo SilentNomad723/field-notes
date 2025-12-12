@@ -1,0 +1,10 @@
+External archival log.
+
+Primary storage reached capacity during final consolidation phase.
+Remaining fragment was migrated to an auxiliary public container
+to maintain redundancy and trace continuity.
+
+External references:
+https://pastebin.com/B3we94WA
+
+No additional data is preserved locally.
