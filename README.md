@@ -28,7 +28,6 @@ The repository is organized into the following primary components:
 
 - `notes/` — Contains raw textual observations grouped by period.
 - `misc/` — Stores reference fragments and auxiliary metadata.
-- `log.txt` — External trace indexing and archival references.
 
 The structure may evolve as new material is collected.
 
