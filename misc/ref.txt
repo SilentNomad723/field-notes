@@ -1,0 +1,10 @@
+You found this file.
+Impressive.
+
+Unfortunately, skill ≠ reward.
+
+Flag status:
+[ ] Found
+[X] Not here
+
+Better luck in the next file.
