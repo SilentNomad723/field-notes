@@ -1,0 +1,9 @@
+Congrats, you found the flag!
+
+SHAASTRA{...FALSE-FLAG...}
+
+Except… no you didn’t.
+This is a decoy.
+
+You are now morally obligated to keep searching. Maybe search in the other files.
+Maybe you are nearby.
